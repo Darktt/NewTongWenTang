@@ -3,4 +3,4 @@
 [Download][2]
 
 [1]: http://tongwen.openfoundry.org
-[2]: https://github.com/shinrenpan/NewTongWenTang/releases/download/1.2.1/NewTongWenTang.safariextz
+[2]: https://github.com/Darktt/NewTongWenTang/releases/download/1.2.1/NewTongWenTang.safariextz
